@@ -278,15 +278,20 @@ We collect minimal data necessary for service delivery:
 - **HIPAA**: Healthcare data handling in accordance with medical privacy standards
 - **Local Laws**: Compliance with relevant domestic privacy laws in operating regions
 
-### Data Export Mechanism
-Non-PII data can be exported via:
-```bash
-# API endpoint for data export
-GET /api/v1/export/non-pii
-Content-Type: application/json
+### Data Export Mechanisms
+MEGASAI provides comprehensive data extraction capabilities through multiple APIs:
 
-# Returns anonymized conversation data, usage statistics
-```
+**📋 Complete API Documentation**: [`docs/DATA-EXTRACTION-API.md`](docs/DATA-EXTRACTION-API.md)
+
+**Key Export Endpoints**:
+- `GET /api/v1/export/conversations` - Anonymized conversation analytics
+- `GET /api/v1/export/health-statistics` - Aggregated health statistics  
+- `GET /api/v1/export/training-data` - AI training datasets
+- `GET /api/v1/export/system-metrics` - Performance and reliability data
+
+**Supported Formats**: JSON, CSV, XML, Parquet (FHIR-compatible)
+**Code Examples**: Python, R, JavaScript/Node.js integration available
+**Rate Limits**: 500-5,000 requests/hour based on user type
 
 ## 🛡️ Safety & Content Moderation
 
