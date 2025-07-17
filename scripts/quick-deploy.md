@@ -1,3 +1,9 @@
+<!--
+Copyright (c) 2024 TEAM MEGAS
+This documentation is licensed under CC0 1.0 Universal (Public Domain)
+See LICENSE-DATA for details
+-->
+
 # 🚀 MEGASAI Quick Deployment Guide
 
 ## ⚡ 5-Minute Botpress Cloud Deployment

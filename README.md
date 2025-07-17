@@ -1,3 +1,9 @@
+<!--
+Copyright (c) 2024 TEAM MEGAS
+This documentation is licensed under CC0 1.0 Universal (Public Domain)
+See LICENSE-DATA for details
+-->
+
 # MEGASAI - Digital Sexual Health Assistant
 
 <div align="center">
@@ -6,7 +12,8 @@
 
 <br>
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=for-the-badge)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/Code-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: CC0](https://img.shields.io/badge/Data-CC0%201.0-lightgrey.svg?style=for-the-badge)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![SDG](https://img.shields.io/badge/SDG-3%20Good%20Health%20and%20Well--being-green?style=for-the-badge)](https://sdgs.un.org/goals/goal3)
 [![UNICEF Award](https://img.shields.io/badge/UNICEF-Digital%20Innovation%20Awards%202024-gold?style=for-the-badge)](https://www.unicef.org/digitalimpact/)
 
@@ -366,12 +373,24 @@ We welcome contributions from healthcare professionals, developers, and research
 
 ## 📜 License
 
-This project is licensed under the **CC0 1.0 Universal (Public Domain)** license - see the [LICENSE](LICENSE) file for details.
+This project uses **dual licensing** to comply with Digital Public Goods Alliance requirements:
 
-### 🏆 Digital Public Goods Compliant License
-**CC0 1.0 Universal is the recommended license for Digital Public Goods** - providing maximum accessibility and reuse potential globally.
+### 🔧 **Software License: MIT License**
+**Code, bot configuration, and software components** are licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-### What this means:
+**What this means for code:**
+- ✅ **Commercial use** allowed
+- ✅ **Modification** allowed  
+- ✅ **Distribution** allowed
+- ✅ **Private use** allowed
+- ✅ **Attribution required** (copyright notice must be included)
+- ❌ **No warranty** provided
+- ❌ **No liability** assumed
+
+### 📊 **Data License: CC0 1.0 Universal (Public Domain)**
+**Training data, datasets, and documentation content** are dedicated to the public domain under **CC0 1.0 Universal**.
+
+**What this means for data:**
 - ✅ **Commercial use** allowed
 - ✅ **Modification** allowed  
 - ✅ **Distribution** allowed
@@ -380,6 +399,11 @@ This project is licensed under the **CC0 1.0 Universal (Public Domain)** license
 - ✅ **Public domain dedication**
 - ❌ **No warranty** provided
 - ❌ **No liability** assumed
+
+### 🏆 Digital Public Goods Compliant
+This dual licensing approach meets DPG Alliance requirements for **"Open AI System"** and **"Open Data System"** categories:
+- **MIT License**: [OSI-approved](https://opensource.org/licenses/MIT) for software components
+- **CC0 1.0**: [Open Definition conformant](https://opendefinition.org/licenses/) for data components
 
 ## 👥 Team
 

@@ -1,0 +1,36 @@
+CC0 1.0 Universal (Public Domain Dedication)
+
+MEGASAI Training Data and Documentation License
+
+The training data, datasets, documentation content, and related materials in this 
+repository are dedicated to the public domain under CC0 1.0 Universal.
+
+To the extent possible under law, TEAM MEGAS has waived all copyright and related 
+or neighboring rights to the following:
+
+- Training datasets (including HuggingFace dataset: oMarquess/nahara-dataset-2010n)
+- Documentation files (README.md, docs/ directory)
+- Sample data and examples
+- Media assets and images
+- Configuration data content
+
+This work is published from Ghana.
+
+You can copy, modify, distribute and perform this data and documentation, even 
+for commercial purposes, all without asking permission.
+
+COVERED COMPONENTS:
+✅ Training data and datasets
+✅ Documentation and README content
+✅ Sample conversations and examples
+✅ Configuration data content
+✅ Media assets and logos
+
+NOT COVERED (see main LICENSE for software license):
+❌ Source code and software
+❌ Bot configuration logic
+❌ Scripts and automation tools
+❌ Software implementation
+
+Full CC0 1.0 Universal License: 
+https://creativecommons.org/publicdomain/zero/1.0/ 
