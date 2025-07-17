@@ -76,9 +76,6 @@ MEGASAI directly contributes to multiple Sustainable Development Goals:
 **🎯 SDG 10: Reduced Inequalities**
 - **Target 10.3**: Ensure equal opportunity and reduce inequalities in health access
 
-**🎯 SDG 16: Peace, Justice and Strong Institutions**
-- **Target 16.6**: Develop effective, accountable and transparent institutions at all levels
-
 ## ✨ Key Features
 
 ### Core Functionality
