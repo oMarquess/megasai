@@ -213,19 +213,47 @@ MEGASAI ("we," "our," or "us") is committed to protecting your privacy and ensur
 - `DELETE /api/v1/privacy/delete` - Request data deletion
 - `POST /api/v1/privacy/consent` - Manage consent preferences
 
-## Compliance Certifications
+## Legal Compliance Framework
 
-### Current Standards
-- **ISO 27001**: Information Security Management
-- **SOC 2 Type II**: Security, availability, and confidentiality
-- **GDPR**: European data protection compliance
-- **HIPAA**: Healthcare information protection (applicable sections)
+MEGASAI maintains comprehensive compliance with applicable laws across all operating jurisdictions. For complete details, see our [Legal Compliance Documentation](docs/LEGAL-COMPLIANCE.md).
 
-### Regular Audits
-- **Annual privacy audits** by independent third parties
-- **Security penetration testing** quarterly
-- **Compliance monitoring** continuous
+### Primary Legal Compliance
+- **GDPR** (EU): General Data Protection Regulation (EU) 2016/679
+- **UK GDPR**: UK General Data Protection Regulation + Data Protection Act 2018
+- **CCPA/CPRA** (California): California Consumer Privacy Act + Privacy Rights Act
+- **PIPEDA** (Canada): Personal Information Protection and Electronic Documents Act
+- **HIPAA** (US): Healthcare data protection (applicable sections)
+- **ADA** (US): Americans with Disabilities Act 1990 + Amendments 2008
+- **COPPA** (US): Children's Online Privacy Protection Act 1998
+
+### International Privacy Laws
+- **Singapore PDPA**: Personal Data Protection Act 2012
+- **Swiss FDPA**: Swiss Federal Data Protection Act (revised 2022)
+- **LGPD** (Brazil): Lei Geral de Proteção de Dados
+- **POPIA** (South Africa): Protection of Personal Information Act
+- **Australia Privacy Act** 1988: Privacy Amendment Act 2022
+
+### US State Privacy Laws
+- ✅ Virginia Consumer Data Protection Act (VCDPA)
+- ✅ Colorado Privacy Act (CPA)
+- ✅ Connecticut Data Privacy Act (CTDPA)
+- ✅ Utah Consumer Privacy Act (UCPA)
+- ✅ Oregon Consumer Privacy Act
+- ✅ Texas Data Privacy and Security Act
+- ✅ Montana Consumer Data Privacy Act
+
+### Accessibility and Disability Rights
+- **WCAG 2.1**: Web Content Accessibility Guidelines Level AA
+- **AODA** (Ontario): Accessibility for Ontarians with Disabilities Act
+- **European Accessibility Act**: Directive (EU) 2019/882
+
+### Regular Audits and Certifications
+- **Quarterly privacy audits** by independent third parties
+- **Security penetration testing** bi-annually
+- **Accessibility compliance testing** monthly
+- **Legal compliance monitoring** continuous
 - **Staff certification** annual training requirements
+- **ISO 27001** certification in progress (target: Q2 2025)
 
 ---
 

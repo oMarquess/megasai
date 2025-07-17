@@ -272,11 +272,31 @@ We collect minimal data necessary for service delivery:
 - **Export**: Users can request their data in JSON/CSV format
 - **Deletion**: Users can request complete data deletion
 
-### Compliance
-- **GDPR**: Full compliance with European data protection regulations
-- **COPPA**: Specialized protections for users under 13
-- **HIPAA**: Healthcare data handling in accordance with medical privacy standards
-- **Local Laws**: Compliance with relevant domestic privacy laws in operating regions
+### Legal Compliance
+MEGASAI maintains comprehensive compliance with privacy and applicable laws, with Ghana as the primary jurisdiction and African regional frameworks providing the foundational legal structure.
+
+**📋 Complete Compliance Documentation**: [`docs/LEGAL-COMPLIANCE.md`](docs/LEGAL-COMPLIANCE.md)
+
+**🇬🇭 PRIMARY JURISDICTION: GHANA**
+- **Ghana Data Protection Act, 2012 (Act 843)**: Primary governing law for MEGASAI
+- **Ghana Constitution, 1992 - Article 18(2)**: Constitutional right to privacy
+- **Ghana Cybersecurity Act, 2020 (Act 1038)**: Cybersecurity and data protection
+
+**🌍 AFRICAN REGIONAL FRAMEWORK**
+- **ECOWAS Supplementary Act on Personal Data Protection, 2010**: West African regional alignment
+- **African Union Convention on Cyber Security and Personal Data Protection, 2014**: Continental framework
+- **Nigeria, South Africa, Kenya**: Regional data protection law alignment
+
+**🌍 INTERNATIONAL LEGAL FRAMEWORKS**
+- **GDPR** (EU), **UK GDPR**: European data protection regulations
+- **CCPA/CPRA** (California): California privacy rights legislation  
+- **PIPEDA** (Canada): Personal information protection standards
+- **HIPAA** (US): Healthcare data protection (applicable sections)
+- **ADA** (US): Americans with Disabilities Act accessibility requirements
+- **COPPA** (US): Children's online privacy protection (under 13)
+- **WCAG 2.1 AA**: Web accessibility compliance standards
+
+**International Coverage**: 30+ countries including Singapore PDPA, Australia Privacy Act, Brazil LGPD, and comprehensive US state privacy laws
 
 ### Data Export Mechanisms
 MEGASAI provides comprehensive data extraction capabilities through multiple APIs:
