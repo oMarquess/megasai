@@ -1,0 +1,1225 @@
+[
+  {
+    "id": "file_01K0BSQVJE3JQCE3D1J5JA08SE",
+    "accessPolicies": [],
+    "contentType": "application/json",
+    "size": 579792,
+    "status": "upload_completed",
+    "tags": {
+      "dm": "studio/dialog-manager",
+      "dmHash": "d3d20012c0cef3d3bb96bedfb869f187260942d4a45f001e6eb1386b048d99a1",
+      "system": "true",
+      "purpose": "bot-content"
+    },
+    "key": "deployments/1752742751722.json",
+    "index": false,
+    "updatedAt": "2025-07-17T08:59:11.809Z"
+  },
+  {
+    "id": "file_01K0BSB30R20HZ2VTYVATQVSJJ",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 900703,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/least-20-us-adults-living-obesity-every-state-2024a1000gna"
+    },
+    "key": "least 20 us adults living obesity every state 2024a1000gna.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:13.464Z"
+  },
+  {
+    "id": "file_01K0BSB2KN6GN99326VE5QRDV5",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 911986,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/sglt-2-inhibitors-reduce-dementia-risk-vs-dpp-4-inhibitors-2024a1000gnf"
+    },
+    "key": "sglt 2 inhibitors reduce dementia risk vs dpp 4 inhibitors 2024a1000gnf.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:13.045Z"
+  },
+  {
+    "id": "file_01K0BSB27W309PJPYZKYTC45QP",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 901520,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/what-if-virus-could-reverse-antibiotic-resistance-2024a1000go6"
+    },
+    "key": "what if virus could reverse antibiotic resistance 2024a1000go6.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:12.669Z"
+  },
+  {
+    "id": "file_01K0BSB1WMFGMYPYYQ23HGXAAH",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 882452,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/nsaids-offer-no-relief-pain-iud-placement-2024a1000gno"
+    },
+    "key": "nsaids offer no relief pain iud placement 2024a1000gno.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:12.309Z"
+  },
+  {
+    "id": "file_01K0BSB1EWHQRSJR831JWBFR5H",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 896883,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/asthma-and-type-2-diabetes-have-bidirectional-relationship-2024a1000gnk"
+    },
+    "key": "asthma and type 2 diabetes have bidirectional relationship 2024a1000gnk.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:11.868Z"
+  },
+  {
+    "id": "file_01K0BSB10G0BHW2PDB5WGBG1J5",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 902572,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/it-time-universal-suicide-screening-2024a1000goa"
+    },
+    "key": "it time universal suicide screening 2024a1000goa.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:11.408Z"
+  },
+  {
+    "id": "file_01K0BSB0S7H9EZ3E7Y4KG2MMEF",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 129496,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://medscape.com/favicon.ico",
+      "pageUrl": "https://medscape.com"
+    },
+    "key": "medscape com.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:11.175Z"
+  },
+  {
+    "id": "file_01K0BSB0E7TFA5K30FBA0Y8M1B",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 904716,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/semaglutide-reduces-mace-death-participants-cvd-overweight-2024a1000gnt"
+    },
+    "key": "semaglutide reduces mace death participants cvd overweight 2024a1000gnt.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:10.824Z"
+  },
+  {
+    "id": "file_01K0BSB00EV42B1168HZDMF77T",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 906244,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/first-generation-medical-students-rely-grit-navigate-unique-2024a1000gni"
+    },
+    "key": "first generation medical students rely grit navigate unique 2024a1000gni.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:10.382Z"
+  },
+  {
+    "id": "file_01K0BSAZM0SN8VM420GVWS52PV",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 910112,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/tirzepatide-real-world-safety-profile-reassuring-so-far-2024a1000gnq"
+    },
+    "key": "tirzepatide real world safety profile reassuring so far 2024a1000gnq.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:09.984Z"
+  },
+  {
+    "id": "file_01K0BSAZ5V94TVRFETDD804VX7",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 909482,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/carmen-lc03-fails-hope-remains-ceacam5-targeting-2024a1000glk"
+    },
+    "key": "carmen lc03 fails hope remains ceacam5 targeting 2024a1000glk.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:09.532Z"
+  },
+  {
+    "id": "file_01K0BSAYP1WXJJ8MBAFEFK61CM",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 891252,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/first-combined-face-and-eye-transplant-performed-2024a1000gn1"
+    },
+    "key": "first combined face and eye transplant performed 2024a1000gn1.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:09.025Z"
+  },
+  {
+    "id": "file_01K0BSAY8HXS2ENXAT10F2H71S",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 903794,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/eating-fruits-and-oats-ups-type-1-diabetes-risk-kids-2024a1000gld"
+    },
+    "key": "eating fruits and oats ups type 1 diabetes risk kids 2024a1000gld.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:08.593Z"
+  },
+  {
+    "id": "file_01K0BSAXX0PD98K3PTD7PXTPNE",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 890744,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/genitourinary-symptoms-men-canaries-coal-mine-underlying-2024a1000gmk"
+    },
+    "key": "genitourinary symptoms men canaries coal mine underlying 2024a1000gmk.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:08.224Z"
+  },
+  {
+    "id": "file_01K0BSAXGXJ1DKRCYJ0JWZGSXJ",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 903327,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/remarkable-weight-loss-seen-novel-oral-combination-safe-and-2024a1000glt"
+    },
+    "key": "remarkable weight loss seen novel oral combination safe and 2024a1000glt.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:07.837Z"
+  },
+  {
+    "id": "file_01K0BSAX3GBKSD5DA6WR25PFFB",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 905428,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/baveno-vi-criteria-appear-cost-effective-detecting-varices-2024a1000glu"
+    },
+    "key": "baveno vi criteria appear cost effective detecting varices 2024a1000glu.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:07.408Z"
+  },
+  {
+    "id": "file_01K0BSAWRWGNXHZ6GA9AG6KYFR",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 899306,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/sglt2-inhibitor-reduces-risk-neurodegenerative-diseases-t2d-2024a1000gmm"
+    },
+    "key": "sglt2 inhibitor reduces risk neurodegenerative diseases t2d 2024a1000gmm.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:07.068Z"
+  },
+  {
+    "id": "file_01K0BSAWEE6XC0PFHQFV9V0GFJ",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 893333,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/high-dose-prescription-amphetamine-tied-psychosis-risk-2024a1000gm6"
+    },
+    "key": "high dose prescription amphetamine tied psychosis risk 2024a1000gm6.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:06.735Z"
+  },
+  {
+    "id": "file_01K0BSAW36JF8XDGHHY3QZCVDH",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 945984,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/montana-hospital-pay-10-8m-settle-false-claims-oncology-suit-2024a1000glj"
+    },
+    "key": "montana hospital pay 10 8m settle false claims oncology suit 2024a1000glj.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:06.374Z"
+  },
+  {
+    "id": "file_01K0BSAVND77N7MSDGDC59FEVD",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 910885,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/which-adults-are-rsv-vaccination-programs-cost-effective-2024a1000gn8"
+    },
+    "key": "which adults are rsv vaccination programs cost effective 2024a1000gn8.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:05.933Z"
+  },
+  {
+    "id": "file_01K0BSAV7N3N3Y0VZJNYV9A28E",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 904818,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/treatment-options-mcl-what-are-best-practices-2024a1000glf"
+    },
+    "key": "treatment options mcl what are best practices 2024a1000glf.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:05.493Z"
+  },
+  {
+    "id": "file_01K0BSATWCH9V6THH08HT8TFZQ",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 892006,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/uva-defends-medical-school-dean-hospital-ceo-after-docs-call-2024a1000ggf"
+    },
+    "key": "uva defends medical school dean hospital ceo after docs call 2024a1000ggf.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:05.132Z"
+  },
+  {
+    "id": "file_01K0BSATDC1M2SV99RTAPT73CQ",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 903543,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/liraglutide-reduces-bmi-almost-6-children-aged-6-12-2024a1000gig"
+    },
+    "key": "liraglutide reduces bmi almost 6 children aged 6 12 2024a1000gig.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:04.652Z"
+  },
+  {
+    "id": "file_01K0BSASZ3TAMJ4Z0FGN2XS1ZJ",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 924043,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/ais-drug-revolution-part-3-making-proteins-scratch-2024a1000gim"
+    },
+    "key": "ais drug revolution part 3 making proteins scratch 2024a1000gim.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:04.195Z"
+  },
+  {
+    "id": "file_01K0BSASFR6R4C4ZVW5H3KDV1D",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 895797,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/no-benefit-anticoagulation-after-stemi-revascularization-2024a1000gkz"
+    },
+    "key": "no benefit anticoagulation after stemi revascularization 2024a1000gkz.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:03.704Z"
+  },
+  {
+    "id": "file_01K0BSAS1DF44D30D6VZ5CBP7T",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 897593,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/debate-should-car-t-best-be-used-early-mm-relapse-2024a1000gjg"
+    },
+    "key": "debate should car t best be used early mm relapse 2024a1000gjg.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:03.245Z"
+  },
+  {
+    "id": "file_01K0BSARM1BY9TJH0HZJ2TYW8F",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 906686,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/patients-long-covid-show-abnormal-lung-perfusion-despite-2024a1000gkv"
+    },
+    "key": "patients long covid show abnormal lung perfusion despite 2024a1000gkv.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:02.818Z"
+  },
+  {
+    "id": "file_01K0BSAR7EEEGY38ENXV9P510A",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 908077,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/icodec-semaglutide-combo-shows-benefit-type-2-diabetes-2024a1000glb"
+    },
+    "key": "icodec semaglutide combo shows benefit type 2 diabetes 2024a1000glb.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:02.414Z"
+  },
+  {
+    "id": "file_01K0BSAQNBYXC6EJPN4JVG6Z37",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 908328,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/early-vs-late-fast-window-one-more-effective-2024a1000gl8"
+    },
+    "key": "early vs late fast window one more effective 2024a1000gl8.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:01.840Z"
+  },
+  {
+    "id": "file_01K0BSAQ1RCWR242NQF73MPZHX",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 888945,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/expert-warns-large-language-model-pitfalls-dermatology-2024a1000gl5"
+    },
+    "key": "expert warns large language model pitfalls dermatology 2024a1000gl5.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:01.208Z"
+  },
+  {
+    "id": "file_01K0BSAPM1ZCKX42NJ5NAXNQ6J",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 910664,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/novel-biomarkers-copd-could-help-physicians-monitor-and-2024a1000ggx"
+    },
+    "key": "novel biomarkers copd could help physicians monitor and 2024a1000ggx.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:00.769Z"
+  },
+  {
+    "id": "file_01K0BSAP6P3BFHX3DWS0SBJEJW",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 902687,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/novel-adc-shows-promise-pretreated-extensive-sclc-2024a1000ghu"
+    },
+    "key": "novel adc shows promise pretreated extensive sclc 2024a1000ghu.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:52:00.342Z"
+  },
+  {
+    "id": "file_01K0BSANV0E1EVCS0W7CJW9Z00",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 907042,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/ai-voice-analysis-diabetes-screening-shows-promise-2024a1000ggw"
+    },
+    "key": "ai voice analysis diabetes screening shows promise 2024a1000ggw.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:59.968Z"
+  },
+  {
+    "id": "file_01K0BSANF3EDJJ6TFAB794WF8K",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 901770,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/long-term-data-support-zephyr-valve-value-emphysema-2024a1000ggv"
+    },
+    "key": "long term data support zephyr valve value emphysema 2024a1000ggv.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:59.587Z"
+  },
+  {
+    "id": "file_01K0BSAN2V0K4TKVNV3J7JSQ7D",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 912660,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/once-weekly-insulin-looks-good-t2d-risk-seen-t1d-2024a1000gh8"
+    },
+    "key": "once weekly insulin looks good t2d risk seen t1d 2024a1000gh8.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:59.195Z"
+  },
+  {
+    "id": "file_01K0BSAMNK2DJGSSRAG25YXTCY",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 902696,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/majority-hospitalized-patients-copd-misuse-inhalers-2024a1000ghd"
+    },
+    "key": "majority hospitalized patients copd misuse inhalers 2024a1000ghd.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:58.771Z"
+  },
+  {
+    "id": "file_01K0BSAMAG9CQCA5Q85B50KZDR",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 900154,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/aumolertinib-promising-maintenance-therapy-egfr-mutated-2024a1000ghh"
+    },
+    "key": "aumolertinib promising maintenance therapy egfr mutated 2024a1000ghh.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:58.416Z"
+  },
+  {
+    "id": "file_01K0BSAKXHE5MCM8GDXJ6FC1HM",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 926611,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/ais-drug-revolution-part-2-new-uses-old-drugs-2024a1000ghi"
+    },
+    "key": "ais drug revolution part 2 new uses old drugs 2024a1000ghi.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:58.002Z"
+  },
+  {
+    "id": "file_01K0BSAKJ1DFJ1W8Y9HBE7YK9A",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 893347,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/states-take-action-against-eastern-equine-encephalitis-2024a1000gha"
+    },
+    "key": "states take action against eastern equine encephalitis 2024a1000gha.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:57.633Z"
+  },
+  {
+    "id": "file_01K0BSAK48GA2G9J2ZBKJYBS7M",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 915601,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/ais-drug-revolution-part-1-faster-trials-and-approvals-2024a1000ggz"
+    },
+    "key": "ais drug revolution part 1 faster trials and approvals 2024a1000ggz.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:57.192Z"
+  },
+  {
+    "id": "file_01K0BSAJN95A65006PV7NVAZF1",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 810283,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/eating-right-fats-may-help-patients-live-longer-2024a1000ggd"
+    },
+    "key": "eating right fats may help patients live longer 2024a1000ggd.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:56.713Z"
+  },
+  {
+    "id": "file_01K0BSAJ4PPPWTRR78N9HHEKZV",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 890682,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/remedies-menopause-symptoms-show-short-term-benefit-need-2024a1000gg9"
+    },
+    "key": "remedies menopause symptoms show short term benefit need 2024a1000gg9.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:56.182Z"
+  },
+  {
+    "id": "file_01K0BSAHP6NE2GZGZ45BY8XEV7",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 883159,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/prioritizing-treatments-mood-disorders-perimenopause-2024a1000gga"
+    },
+    "key": "prioritizing treatments mood disorders perimenopause 2024a1000gga.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:55.718Z"
+  },
+  {
+    "id": "file_01K0BSAH8QMX0CW8JHR7C25EDY",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 900660,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/perioperative-pembrolizumab-continues-show-benefit-nsclc-2024a1000gg7"
+    },
+    "key": "perioperative pembrolizumab continues show benefit nsclc 2024a1000gg7.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:55.287Z"
+  },
+  {
+    "id": "file_01K0BSAGVF24MY68M0J3HXZF01",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 884783,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/could-aspirin-avert-bad-outcomes-leukemia-2024a1000g9q"
+    },
+    "key": "could aspirin avert bad outcomes leukemia 2024a1000g9q.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:54.863Z"
+  },
+  {
+    "id": "file_01K0BSAGFQF1YMA9MTQSPZBYC4",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 815703,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/silent-exodus-are-nurse-practitioners-and-physician-2024a1000ggn"
+    },
+    "key": "silent exodus are nurse practitioners and physician 2024a1000ggn.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:54.487Z"
+  },
+  {
+    "id": "file_01K0BSAG4E49ATXE6MDV4Q6VN9",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 887745,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/what-do-we-know-about-postoperative-cognitive-dysfunction-2024a1000g9b"
+    },
+    "key": "what do we know about postoperative cognitive dysfunction 2024a1000g9b.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:54.126Z"
+  },
+  {
+    "id": "file_01K0BSAFRNW8GGDBT7M4YFWVV5",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 895702,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/eu-brain-thematic-network-meets-develop-policy-statement-2024a1000gah"
+    },
+    "key": "eu brain thematic network meets develop policy statement 2024a1000gah.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:53.749Z"
+  },
+  {
+    "id": "file_01K0BSAFCTKNFAG9QQA2X2K51A",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 902741,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/impressive-results-gene-silencer-attr-cardiomyopathy-2024a1000gbi"
+    },
+    "key": "impressive results gene silencer attr cardiomyopathy 2024a1000gbi.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:53.370Z"
+  },
+  {
+    "id": "file_01K0BSAEYD0GCWMRQAZ33ZJQV7",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 908231,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/canada-faces-emergency-care-crisis-third-straight-summer-2024a1000g9c"
+    },
+    "key": "canada faces emergency care crisis third straight summer 2024a1000g9c.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:52.909Z"
+  },
+  {
+    "id": "file_01K0BSAEJH7XNT19MMHEAGD1YC",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 953746,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/ai-medicine-sparks-excitement-and-concerns-among-experts-2024a1000g7c"
+    },
+    "key": "ai medicine sparks excitement and concerns among experts 2024a1000g7c.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:52.529Z"
+  },
+  {
+    "id": "file_01K0BSAE5F8FN94BKCAA5MEDJJ",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 912453,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/thanks-reddit-new-diagnosis-bubbling-2024a1000g8c"
+    },
+    "key": "thanks reddit new diagnosis bubbling 2024a1000g8c.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:52.111Z"
+  },
+  {
+    "id": "file_01K0BSADR01KHHR019ZX9CNKYV",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 900836,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/vascular-and-cardiac-collaboration-essential-so-ai-2024a1000g99"
+    },
+    "key": "vascular and cardiac collaboration essential so ai 2024a1000g99.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:51.680Z"
+  },
+  {
+    "id": "file_01K0BSADB1XHQKF90WF10D30H1",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 900807,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/exploratory-data-support-both-adjuvant-and-neoadjuvant-2024a1000g93"
+    },
+    "key": "exploratory data support both adjuvant and neoadjuvant 2024a1000g93.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:51.265Z"
+  },
+  {
+    "id": "file_01K0BSACXWC5EZ0W3EPAJB8QQS",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 896002,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/controversy-surrounds-optimal-treatment-high-risk-pulmonary-2024a1000g7i"
+    },
+    "key": "controversy surrounds optimal treatment high risk pulmonary 2024a1000g7i.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:50.844Z"
+  },
+  {
+    "id": "file_01K0BSACJ403TPX1WNGDFMSM3Z",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 898660,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/research-highlights-importance-genetic-testing-and-novel-2024a1000g89"
+    },
+    "key": "research highlights importance genetic testing and novel 2024a1000g89.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:50.468Z"
+  },
+  {
+    "id": "file_01K0BSAC4TEPK58RHV66YEFJAS",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 875089,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/study-balloon-angioplasty-plus-medical-management-sicas-2024a1000g7s"
+    },
+    "key": "study balloon angioplasty plus medical management sicas 2024a1000g7s.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:50.042Z"
+  },
+  {
+    "id": "file_01K0BSABS693NWCSYJT37QRGT7",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 895667,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/not-kidding-yellow-dye-5-may-be-key-invisibility-2024a1000g75"
+    },
+    "key": "not kidding yellow dye 5 may be key invisibility 2024a1000g75.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:49.670Z"
+  },
+  {
+    "id": "file_01K0BSABDRQV91AVD5XYZTWV0T",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 906592,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/ivonescimab-possible-new-first-line-standard-pd-l1-positive-2024a1000g7m"
+    },
+    "key": "ivonescimab possible new first line standard pd l1 positive 2024a1000g7m.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:49.304Z"
+  },
+  {
+    "id": "file_01K0BSAB0PN41MHB0QFJVJHQ7S",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 904579,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/will-tirzepatide-vials-help-patients-endos-weigh-2024a1000g8q"
+    },
+    "key": "will tirzepatide vials help patients endos weigh 2024a1000g8q.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:48.886Z"
+  },
+  {
+    "id": "file_01K0BSAAK1DBW49GJY9MMVDN9B",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 896787,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/wait-health-worker-surplus-workforce-report-projects-big-2024a1000g5i"
+    },
+    "key": "wait health worker surplus workforce report projects big 2024a1000g5i.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:48.449Z"
+  },
+  {
+    "id": "file_01K0BSAA4P05PEV5WA1MDAQ1QV",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 893744,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/navigating-treatment-vitiligo-combination-therapies-and-2024a1000g6g"
+    },
+    "key": "navigating treatment vitiligo combination therapies and 2024a1000g6g.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:47.991Z"
+  },
+  {
+    "id": "file_01K0BSA9M3556C3S1GJ4F6Z498",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 907105,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/pilot-oct-parameter-tracks-atherosclerosis-progression-2024a1000g69"
+    },
+    "key": "pilot oct parameter tracks atherosclerosis progression 2024a1000g69.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:47.460Z"
+  },
+  {
+    "id": "file_01K0BSA97BTHGZBRFD205P05RX",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 910154,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/nighttime-outdoor-light-pollution-linked-alzheimers-risk-2024a1000g60"
+    },
+    "key": "nighttime outdoor light pollution linked alzheimers risk 2024a1000g60.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:47.051Z"
+  },
+  {
+    "id": "file_01K0BSA8VQYW49QQB3SMRHWKJM",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 811711,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/acg-asge-task-force-identifies-19-indicators-achieving-2024a1000g6c"
+    },
+    "key": "acg asge task force identifies 19 indicators achieving 2024a1000g6c.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:46.679Z"
+  },
+  {
+    "id": "file_01K0BSA8E04KH5TA1WMYPQZQDS",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 893049,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/why-more-doctors-are-joining-unions-2024a1000g6q"
+    },
+    "key": "why more doctors are joining unions 2024a1000g6q.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:46.240Z"
+  },
+  {
+    "id": "file_01K0BSA81YMTPXZMBWHRP03SGN",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 912625,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/how-oatzempic-stacks-ozempic-2024a1000g54"
+    },
+    "key": "how oatzempic stacks ozempic 2024a1000g54.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:45.854Z"
+  },
+  {
+    "id": "file_01K0BSA7P7JMGBFMY72E77SH8A",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 896546,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/beyond-cgrp-new-monoclonal-antibody-class-shows-promise-2024a1000g61"
+    },
+    "key": "beyond cgrp new monoclonal antibody class shows promise 2024a1000g61.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:45.479Z"
+  },
+  {
+    "id": "file_01K0BSA79D7T74BBAK32F1FX7H",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 913339,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/kras-inhibitors-pancreatic-cancer-hope-horizon-2024a1000g6t"
+    },
+    "key": "kras inhibitors pancreatic cancer hope horizon 2024a1000g6t.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:45.069Z"
+  },
+  {
+    "id": "file_01K0BSA6XY7C34X3TBMJW9XR48",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 897477,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favico/apple-touch-icon-114x114-precomposed.png",
+      "pageUrl": "https://www.medscape.com/viewarticle/brain-network-significantly-larger-people-depression-even-2024a1000g6b"
+    },
+    "key": "brain network significantly larger people depression even 2024a1000g6b.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:44.702Z"
+  },
+  {
+    "id": "file_01K0BSA64RZTP8SF68K2X2YM15",
+    "accessPolicies": [],
+    "contentType": "text/html; charset=utf-8",
+    "size": 93743,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-2ba55ce014",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.medscape.com/favicon.ico",
+      "pageUrl": "https://www.medscape.com/viewarticle/998214"
+    },
+    "key": "998214.html",
+    "index": true,
+    "updatedAt": "2025-07-17T08:51:43.896Z"
+  }
+]
