@@ -149,6 +149,7 @@ megasai/
 ├── LICENSING.md                        # Dual licensing guide
 ├── swift-dogfish - 2025 Jul 17.bpz    # Original project archive
 ├── docs/
+│   ├── OWNERSHIP.md                   # Clear ownership documentation
 │   ├── AI-MODEL-CARD.md               # AI model documentation
 │   ├── DATASET-CARD.md                # Training data documentation
 │   ├── AI-RISK-ASSESSMENT.md          # AI safety and risk analysis
@@ -185,7 +186,7 @@ megasai/
 
 ### ✅ 3. Clear Ownership
 **Status**: COMPLETE  
-**Documentation**: [`README.md`](../README.md#team-and-ownership)
+**Documentation**: [`OWNERSHIP.md`](OWNERSHIP.md) | [`README.md`](../README.md#team-and-ownership)
 - **Owner**: TEAM MEGAS
 - **Sponsor**: The Central Leadership Program
 - **Team**: 11 members across departments

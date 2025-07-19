@@ -42,6 +42,7 @@
 **Requirement**: Ownership of assets that the digital public good produces must be clearly defined
 
 **Evidence Provided**:
+- ✅ Dedicated ownership document: [`OWNERSHIP.md`](OWNERSHIP.md)
 - ✅ Team members clearly identified in README
 - ✅ Contact information provided
 - ✅ UNICEF award recognition establishes credibility
