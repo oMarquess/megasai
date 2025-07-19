@@ -427,4 +427,4 @@ This ensures that MEGASAI can be deployed in any environment, migrate between pl
 **Version**: 1.0  
 **Next Review**: April 17, 2025
 
-For questions about platform alternatives or migration support, contact: platform@megasai.org 
+For questions about platform alternatives or migration support, contact: teammegas62@gmail.com 

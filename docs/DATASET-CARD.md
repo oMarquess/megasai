@@ -477,16 +477,16 @@ The nahara-dataset-2010n is a specialized training dataset designed for developi
 ## 📞 Contact and Maintenance
 
 ### Dataset Maintainers
-- **Primary Contact**: Adase Ishmael, Data Analyst (data@megasai.org)
-- **Technical Lead**: Felix Coker, Lead Developer (felix@megasai.org)
-- **Medical Advisor**: Dr. Rhoda E. Badu, Medical Team Lead (medical@megasai.org)
-- **Project Lead**: Redeemer O. Salami, Founder/AI Engineer (sredeemer24@gmail.com)
+- **Primary Contact**: Adase Ishmael, Data Analyst (teammegas62@gmail.com)
+- **Technical Lead**: Felix Coker, Lead Developer (teammegas62@gmail.com)
+- **Medical Advisor**: Dr. Rhoda E. Badu, Medical Team Lead (teammegas62@gmail.com)
+- **Project Lead**: Redeemer O. Salami, Founder/AI Engineer (teammegas62@gmail.com)
 
 ### Support and Updates
 - **General Support**: teammegas62@gmail.com
-- **Technical Issues**: tech@megasai.org
-- **Medical Content**: medical@megasai.org
-- **Ethical Concerns**: ethics@megasai.org
+- **Technical Issues**: teammegas62@gmail.com
+- **Medical Content**: teammegas62@gmail.com
+- **Ethical Concerns**: teammegas62@gmail.com
 
 ### Maintenance Schedule
 - **Regular Updates**: Quarterly review and potential updates

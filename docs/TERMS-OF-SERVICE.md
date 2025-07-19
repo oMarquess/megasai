@@ -18,7 +18,7 @@ These Terms of Service ("Terms") govern your use of MEGASAI, a digital sexual he
 
 **Service Provider**: TEAM MEGAS  
 **Service Website**: https://megasai.onepage.me  
-**Contact**: legal@megasai.org  
+**Contact**: teammegas62@gmail.com  
 **Emergency Support**: Available 24/7 through the platform
 
 ---
@@ -128,7 +128,7 @@ For users under 13 years:
 - ✅ **Right to Restriction** (Article 18): Limit data processing
 
 **Legal Basis for Processing**: Legitimate interest (public health education)
-**Data Protection Officer**: dpo@megasai.org
+**Data Protection Officer**: teammegas62@gmail.com
 **Supervisory Authority**: Contact your local data protection authority
 
 ### **CCPA/CPRA Compliance (California Users)**
@@ -170,7 +170,7 @@ For users under 13 years:
 - ✅ **High contrast mode**
 
 ### **Accommodation Requests**
-**Contact**: accessibility@megasai.org
+**Contact**: teammegas62@gmail.com
 **Response Time**: Within 5 business days
 **Process**: Reasonable accommodations provided at no charge
 
@@ -337,7 +337,7 @@ MEGASAI is provided **completely free of charge** as a digital public good.
 **International Users**: Local laws also apply where they provide greater protection
 
 ### **Dispute Resolution Process**
-1. **Informal Resolution**: Contact legal@megasai.org
+1. **Informal Resolution**: Contact teammegas62@gmail.com
 2. **Mediation**: Neutral third-party mediation
 3. **Arbitration**: Binding arbitration (where legally permitted)
 4. **Court Proceedings**: Final resort
@@ -384,23 +384,23 @@ MEGASAI is provided **completely free of charge** as a digital public good.
 ### **Primary Legal Contact**
 **Legal Department**  
 TEAM MEGAS  
-Email: legal@megasai.org  
+Email: teammegas62@gmail.com  
 Phone: +233 50 140 8030  
 Response Time: Within 72 hours
 
 ### **Specialized Legal Contacts**
-- **Privacy Officer**: privacy@megasai.org
-- **Data Protection Officer**: dpo@megasai.org
-- **Accessibility Coordinator**: accessibility@megasai.org
-- **Child Safety Officer**: childsafety@megasai.org
-- **Medical Legal**: medical@megasai.org
+- **Privacy Officer**: teammegas62@gmail.com
+- **Data Protection Officer**: teammegas62@gmail.com
+- **Accessibility Coordinator**: teammegas62@gmail.com
+- **Child Safety Officer**: teammegas62@gmail.com
+- **Medical Legal**: teammegas62@gmail.com
 
 ### **Regulatory Authority Contacts**
 **Data Protection Authorities**: Contact information available at [Legal Compliance Framework](docs/LEGAL-COMPLIANCE.md)
 
 ### **Emergency Legal Contacts**
 **24/7 Crisis Legal Support**: Available through platform emergency protocols
-**Law Enforcement Coordination**: security@megasai.org
+**Law Enforcement Coordination**: teammegas62@gmail.com
 
 ---
 

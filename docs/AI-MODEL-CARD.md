@@ -302,16 +302,16 @@ MEGASAI is a conversational AI system specifically designed for sexual health ed
 ## 📞 Contact and Support
 
 ### Model Development Team
-- **Lead Developer**: Felix Coker (felix@megasai.org)
-- **AI Engineer**: Redeemer O. Salami (sredeemer24@gmail.com)
-- **Medical Lead**: Dr. Rhoda E. Badu (medical@megasai.org)
-- **Data Analyst**: Adase Ishmael (data@megasai.org)
+- **Lead Developer**: Felix Coker (teammegas62@gmail.com)
+- **AI Engineer**: Redeemer O. Salami (teammegas62@gmail.com)
+- **Medical Lead**: Dr. Rhoda E. Badu (teammegas62@gmail.com)
+- **Data Analyst**: Adase Ishmael (teammegas62@gmail.com)
 
 ### Technical Support
 - **General Inquiries**: teammegas62@gmail.com
-- **Technical Issues**: tech@megasai.org
-- **Medical Content**: medical@megasai.org
-- **Security Reports**: security@megasai.org
+- **Technical Issues**: teammegas62@gmail.com
+- **Medical Content**: teammegas62@gmail.com
+- **Security Reports**: teammegas62@gmail.com
 
 ### Documentation Updates
 - **Last Review**: January 17, 2025

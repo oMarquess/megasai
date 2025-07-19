@@ -107,7 +107,7 @@ MEGASAI is committed to full legal compliance across all operating jurisdictions
 - **Key Provisions**:
   - Lawful basis for processing: Legitimate interest (health education)
   - Data subject rights: Access, rectification, erasure, portability
-  - Data Protection Officer: Appointed and contactable at dpo@megasai.org
+  - Data Protection Officer: Appointed and contactable at teammegas62@gmail.com
   - Privacy by Design: Implemented throughout system architecture
   - Data Minimization: Only collect necessary health education data
 
@@ -459,7 +459,7 @@ MEGASAI is committed to full legal compliance across all operating jurisdictions
 
 ### Data Protection Officer (DPO)
 - **Name**: Dr. Rhoda E. Badu (Medical DPO) + Felix Coker (Technical DPO)
-- **Contact**: dpo@megasai.org
+- **Contact**: teammegas62@gmail.com
 - **Responsibilities**: Privacy oversight, compliance monitoring, breach response
 
 ### Privacy by Design Implementation
@@ -507,10 +507,10 @@ MEGASAI is committed to full legal compliance across all operating jurisdictions
 - **Other Jurisdictions**: Per local requirements
 
 ### Incident Response Team
-- **Legal Lead**: John A. Basil (legal@megasai.org)
-- **Technical Lead**: Felix Coker (security@megasai.org)
-- **Medical Lead**: Dr. Rhoda E. Badu (medical@megasai.org)
-- **Communications**: Edna Dorgbefu (communications@megasai.org)
+- **Legal Lead**: John A. Basil (teammegas62@gmail.com)
+- **Technical Lead**: Felix Coker (teammegas62@gmail.com)
+- **Medical Lead**: Dr. Rhoda E. Badu (teammegas62@gmail.com)
+- **Communications**: Edna Dorgbefu (teammegas62@gmail.com)
 
 ---
 
@@ -520,16 +520,16 @@ MEGASAI is committed to full legal compliance across all operating jurisdictions
 **Legal Department**  
 TEAM MEGAS  
 **Location**: Accra, Ghana (Primary Office)  
-Email: legal@megasai.org  
+Email: teammegas62@gmail.com  
 Phone: +233 50 140 8030  
 **Ghana Data Protection Commission Registration**: [Completed]
 
 ### Specialized Contacts
-- **Privacy Officer**: privacy@megasai.org
-- **Data Protection Officer**: dpo@megasai.org (Ghana DPA compliance)
-- **Security Incidents**: security@megasai.org
-- **Accessibility Coordinator**: accessibility@megasai.org
-- **Child Safety Officer**: childsafety@megasai.org
+- **Privacy Officer**: teammegas62@gmail.com
+- **Data Protection Officer**: teammegas62@gmail.com (Ghana DPA compliance)
+- **Security Incidents**: teammegas62@gmail.com
+- **Accessibility Coordinator**: teammegas62@gmail.com
+- **Child Safety Officer**: teammegas62@gmail.com
 
 ### Regulatory Authority Contacts
 - **Ghana Data Protection Commission**: https://dataprotection.org.gh

@@ -553,11 +553,11 @@ chaos-monkey --target=megasai-api
 ## 📞 Best Practices Contact and Support
 
 ### **Best Practices Team**
-- **Best Practices Coordinator**: John A. Basil (bestpractices@megasai.org)
-- **Digital Development**: Redeemer O. Salami (development@megasai.org)
-- **Healthcare Practices**: Dr. Rhoda E. Badu (medical@megasai.org)
-- **AI Ethics**: Felix Coker (ai-ethics@megasai.org)
-- **Accessibility**: Edna Dorgbefu (accessibility@megasai.org)
+- **Best Practices Coordinator**: John A. Basil (teammegas62@gmail.com)
+- **Digital Development**: Redeemer O. Salami (teammegas62@gmail.com)
+- **Healthcare Practices**: Dr. Rhoda E. Badu (teammegas62@gmail.com)
+- **AI Ethics**: Felix Coker (teammegas62@gmail.com)
+- **Accessibility**: Edna Dorgbefu (teammegas62@gmail.com)
 
 ### **External Validation Partners**
 - **Digital Development**: Principles for Digital Development community

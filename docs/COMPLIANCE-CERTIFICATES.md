@@ -30,7 +30,7 @@ This document provides evidence of MEGASAI's adherence to applicable laws and st
 **Compliance Evidence**:
 - ✅ **Privacy Impact Assessment** completed (January 2025)
 - ✅ **Data Processing Register** maintained and current
-- ✅ **Data Protection Officer** appointed (dpo@megasai.org)
+- ✅ **Data Protection Officer** appointed (teammegas62@gmail.com)
 - ✅ **Consent Management** system implemented
 - ✅ **Data Subject Rights** procedures operational
 - ✅ **Breach Notification** procedures established (72-hour response)
@@ -54,7 +54,7 @@ This document provides evidence of MEGASAI's adherence to applicable laws and st
 **Evidence Type**: Legal Assessment + Technical Implementation
 
 **Compliance Evidence**:
-- ✅ **Consumer Rights Portal** operational at privacy@megasai.org
+- ✅ **Consumer Rights Portal** operational at teammegas62@gmail.com
 - ✅ **Data Inventory** complete and documented
 - ✅ **No Sale of Personal Information** (verified - we don't sell data)
 - ✅ **Authorized Agent** procedures established
@@ -336,15 +336,15 @@ This document provides evidence of MEGASAI's adherence to applicable laws and st
 ### **Primary Compliance Contact**
 **Legal Department**  
 TEAM MEGAS  
-Email: legal@megasai.org  
+Email: teammegas62@gmail.com  
 Phone: +233 50 140 8030
 
 ### **Specialized Verification Contacts**
-- **Privacy Compliance**: privacy@megasai.org
-- **Security Compliance**: security@megasai.org
-- **Accessibility Compliance**: accessibility@megasai.org
-- **Medical Compliance**: medical@megasai.org
-- **Child Safety Compliance**: childsafety@megasai.org
+- **Privacy Compliance**: teammegas62@gmail.com
+- **Security Compliance**: teammegas62@gmail.com
+- **Accessibility Compliance**: teammegas62@gmail.com
+- **Medical Compliance**: teammegas62@gmail.com
+- **Child Safety Compliance**: teammegas62@gmail.com
 
 ### **Independent Auditor Contacts**
 Available upon request for verification of compliance certificates and audit reports.

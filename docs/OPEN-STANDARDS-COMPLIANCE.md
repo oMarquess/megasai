@@ -599,10 +599,10 @@ jobs:
 ## 📞 Standards Compliance Contact
 
 ### **Technical Standards Team**
-- **Standards Coordinator**: Felix Coker (standards@megasai.org)
-- **Accessibility Lead**: Edna Dorgbefu (accessibility@megasai.org)
-- **Security Standards**: John A. Basil (security@megasai.org)
-- **Healthcare Standards**: Dr. Rhoda E. Badu (medical@megasai.org)
+- **Standards Coordinator**: Felix Coker (teammegas62@gmail.com)
+- **Accessibility Lead**: Edna Dorgbefu (teammegas62@gmail.com)
+- **Security Standards**: John A. Basil (teammegas62@gmail.com)
+- **Healthcare Standards**: Dr. Rhoda E. Badu (teammegas62@gmail.com)
 
 ### **External Validation Support**
 - **W3C Validation**: Public validators used

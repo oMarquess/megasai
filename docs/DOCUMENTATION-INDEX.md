@@ -189,7 +189,7 @@ megasai/
 - **Owner**: TEAM MEGAS
 - **Sponsor**: The Central Leadership Program
 - **Team**: 11 members across departments
-- **Contact**: legal@megasai.org
+- **Contact**: teammegas62@gmail.com
 
 ### ✅ 4. Platform Independence
 **Status**: COMPLETE  
@@ -239,11 +239,11 @@ megasai/
 ## 📞 Contact Information for Verification
 
 ### **Primary Contacts**
-- **Legal Department**: legal@megasai.org
-- **Privacy Officer**: privacy@megasai.org
-- **Data Protection Officer**: dpo@megasai.org
-- **Technical Lead**: Felix Coker (tech@megasai.org)
-- **Medical Lead**: Dr. Rhoda E. Badu (medical@megasai.org)
+- **Legal Department**: teammegas62@gmail.com
+- **Privacy Officer**: teammegas62@gmail.com
+- **Data Protection Officer**: teammegas62@gmail.com
+- **Technical Lead**: Felix Coker (teammegas62@gmail.com)
+- **Medical Lead**: Dr. Rhoda E. Badu (teammegas62@gmail.com)
 
 ### **Verification Support**
 - **Phone**: +233 50 140 8030

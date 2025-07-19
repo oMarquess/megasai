@@ -35,10 +35,10 @@ Content-Type: application/json
 ```
 
 ### Obtaining API Keys
-1. **Research/Academic Use**: Contact `research@megasai.org`
-2. **Healthcare Organizations**: Contact `healthcare@megasai.org`
-3. **Public Health Agencies**: Contact `publichealth@megasai.org`
-4. **Developers**: Contact `developers@megasai.org`
+1. **Research/Academic Use**: Contact `teammegas62@gmail.com`
+2. **Healthcare Organizations**: Contact `teammegas62@gmail.com`
+3. **Public Health Agencies**: Contact `teammegas62@gmail.com`
+4. **Developers**: Contact `teammegas62@gmail.com`
 
 ---
 
@@ -533,7 +533,7 @@ echo "Export completed: $OUTPUT_DIR/megasai_export_$TIMESTAMP.tar.gz"
 
 ### Fair Use Guidelines
 - **Research Purposes**: Academic and non-commercial research encouraged
-- **Commercial Use**: Contact `business@megasai.org` for commercial licensing
+- **Commercial Use**: Contact `teammegas62@gmail.com` for commercial licensing
 - **Bulk Exports**: Large data requests require prior approval
 - **Caching**: Implement reasonable caching to minimize API calls
 
@@ -561,10 +561,10 @@ echo "Export completed: $OUTPUT_DIR/megasai_export_$TIMESTAMP.tar.gz"
 ## 📞 Support and Contact
 
 ### Technical Support
-- **API Issues**: `api@megasai.org`
-- **Data Questions**: `data@megasai.org`
-- **Integration Help**: `developers@megasai.org`
-- **Research Collaboration**: `research@megasai.org`
+- **API Issues**: `teammegas62@gmail.com`
+- **Data Questions**: `teammegas62@gmail.com`
+- **Integration Help**: `teammegas62@gmail.com`
+- **Research Collaboration**: `teammegas62@gmail.com`
 
 ### Documentation Updates
 - **Version History**: Available in GitHub repository
@@ -572,9 +572,9 @@ echo "Export completed: $OUTPUT_DIR/megasai_export_$TIMESTAMP.tar.gz"
 - **Feedback**: Contribute improvements via GitHub issues
 
 ### Emergency Contact
-- **System Outages**: `emergency@megasai.org`
-- **Security Issues**: `security@megasai.org`
-- **Data Breaches**: `incident@megasai.org`
+- **System Outages**: `+233555225870`
+- **Security Issues**: `teammegas62@gmail.com`
+- **Data Breaches**: `teammegas62@gmail.com`
 
 ---
 

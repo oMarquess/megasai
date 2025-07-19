@@ -238,7 +238,7 @@ bp start
 ### For End Users
 
 1. **Telegram**: Search for `@megas_ai_gh_bot` or visit t.me/megas_ai_gh_bot
-2. **WhatsApp**: Send a message to +233 50 140 8030
+2. **WhatsApp**: Send a message to +233 501408030
 3. **Web**: Visit https://megasai.onepage.me/
 
 ### Sample Interactions
@@ -469,7 +469,7 @@ This dual licensing approach meets DPG Alliance requirements for **"Open AI Syst
 ## 📞 Contact
 
 - **Website**: https://megasai.onepage.me/
-- **WhatsApp**: +233 50 140 8030
+- **WhatsApp**: +233 501408030
 - **Telegram**: @megas_ai_gh_bot
 - **Email**: [teammegas62@gmail.com]
 - **GitHub**: [https://github.com/oMarquess/megasai]

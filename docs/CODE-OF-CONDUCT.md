@@ -119,7 +119,7 @@ MEGASAI is dedicated to providing a safe, respectful, and inclusive environment 
 
 #### How to Report Violations
 1. **In-platform reporting**: Use built-in reporting features
-2. **Email reporting**: Send details to conduct@megasai.org
+2. **Email reporting**: Send details to teammegas62@gmail.com
 3. **Emergency hotline**: Call our 24/7 crisis support line
 4. **Anonymous reporting**: Submit reports without identifying yourself
 5. **Third-party reporting**: Allow trusted individuals to report on your behalf
@@ -222,7 +222,7 @@ MEGASAI is dedicated to providing a safe, respectful, and inclusive environment 
 
 ### Code of Conduct Team
 - **General inquiries**: teammegas62@gmail.com
-- **Emergency situations**: sredeemer24@gmail.com
+- **Emergency situations**: +233555225870
 
 ### Response Times
 - **Emergency situations**: Immediate response (24/7)
@@ -242,4 +242,4 @@ By using MEGASAI's services, you acknowledge that you have read, understood, and
 **Version**: 1.0
 
 **Questions or suggestions for improving this Code of Conduct?**  
-Contact us at teammegas62@gmail.com
+Contact us at teammegas62@gmail.com or call +233555225870 for emergencies

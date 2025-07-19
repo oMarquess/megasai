@@ -445,23 +445,23 @@ This risk assessment evaluates the MEGASAI AI system against potential harms, bi
 ## 📞 Contact and Reporting
 
 ### Risk Management Contacts
-- **Risk Management Lead**: Dr. Rhoda E. Badu (risk@megasai.org)
-- **Technical Safety Lead**: Felix Coker (safety@megasai.org)
-- **Medical Ethics Advisor**: Dr. Denu Edinam (ethics@megasai.org)
-- **Community Liaison**: Edna Dorgbefu (community@megasai.org)
+- **Risk Management Lead**: Dr. Rhoda E. Badu (teammegas62@gmail.com)
+- **Technical Safety Lead**: Felix Coker (teammegas62@gmail.com)
+- **Medical Ethics Advisor**: Dr. Denu Edinam (teammegas62@gmail.com)
+- **Community Liaison**: Edna Dorgbefu (teammegas62@gmail.com)
 
 ### Incident Reporting
-- **Emergency Issues**: sredeemer24@gmail.com (24/7 monitoring)
-- **Safety Concerns**: safety@megasai.org
-- **Medical Issues**: medical@megasai.org
-- **Privacy Concerns**: privacy@megasai.org
+- **Emergency Issues**: +233555225870 (24/7 monitoring)
+- **Safety Concerns**: teammegas62@gmail.com
+- **Medical Issues**: teammegas62@gmail.com
+- **Privacy Concerns**: teammegas62@gmail.com
 - **General Inquiries**: teammegas62@gmail.com
 
 ### Stakeholder Communication
-- **Healthcare Providers**: provider-relations@megasai.org
-- **Community Leaders**: community@megasai.org
-- **Regulatory Bodies**: regulatory@megasai.org
-- **Research Partners**: research@megasai.org
+- **Healthcare Providers**: teammegas62@gmail.com
+- **Community Leaders**: teammegas62@gmail.com
+- **Regulatory Bodies**: teammegas62@gmail.com
+- **Research Partners**: teammegas62@gmail.com
 
 ---
 

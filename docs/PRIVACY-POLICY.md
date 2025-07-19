@@ -162,24 +162,25 @@ MEGASAI ("we," "our," or "us") is committed to protecting your privacy and ensur
 ## Contact Information
 
 ### Privacy Inquiries
-- **Email**: privacy@megasai.org
+- **Email**: teammegas62@gmail.com
 - **Response time**: Within 72 hours
 - **Escalation**: Data Protection Officer available
 
 ### Emergency Contacts
 - **Crisis Support**: Available 24/7 through the platform
-- **Technical Issues**: support@megasai.org
-- **Legal Requests**: legal@megasai.org
+- **Emergency Phone**: +233555225870
+- **Technical Issues**: teammegas62@gmail.com
+- **Legal Requests**: teammegas62@gmail.com
 
 ### Data Protection Officer
-- **Contact**: dpo@megasai.org
+- **Contact**: teammegas62@gmail.com
 - **Role**: Independent oversight of privacy practices
 - **Authority**: Can investigate and resolve privacy concerns
 
 ## Complaint Procedures
 
 ### Internal Process
-1. **Initial contact**: privacy@megasai.org
+1. **Initial contact**: teammegas62@gmail.com
 2. **Investigation**: Within 5 business days
 3. **Resolution**: Within 30 days
 4. **Appeal**: To Data Protection Officer if unsatisfied
@@ -258,6 +259,6 @@ MEGASAI maintains comprehensive compliance with applicable laws across all opera
 ---
 
 **Questions about this privacy policy?**  
-Contact us at privacy@megasai.org or through our platform.
+Contact us at teammegas62@gmail.com or through our platform.
 
 This policy is part of MEGASAI's commitment to ethical, transparent, and user-centered design in digital health services. 
